@@ -1,4 +1,4 @@
-var length=600;//side length of the canvas
+var length=600; //side length of the canvas
 var circleNum=22;
 var adjustmentX=2;
 var i;//to control loop
