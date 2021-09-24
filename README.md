@@ -7,4 +7,4 @@ Inspired by Victor Vasarely's Op Art<br><br>
     1. OERVENG still "re-painting" copy by p5.js
     2. OERVENG "re-code" with sound sensitivity (microphone needed)
     3. OERVENG "re-code" with two different modes including "Mouse & Keyboard Mode" and "Sound Sensitivity Mode"
-##### Reference:[Just van Rossum's Vasarely Circles](http://dailydrawbot.tumblr.com/post/136811506080/circles-after-victor-vasarely-source-code)
+##### Reference: [Just van Rossum's Vasarely Circles](http://dailydrawbot.tumblr.com/post/136811506080/circles-after-victor-vasarely-source-code)
